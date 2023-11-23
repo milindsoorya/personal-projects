@@ -1,0 +1,11 @@
+requests
+pandas
+
+matplotlib
+seaborn
+
+scikit-learn
+nltk
+
+python-dotenv
+streamlit
